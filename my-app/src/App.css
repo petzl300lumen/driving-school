@@ -1,3 +1,23 @@
 .myMap{
     width: 500px;
 }
+
+.mainDiv{
+
+
+    /* background-color: gray; */
+}
+
+.Test{
+    margin: 50px;
+
+    display: flex;
+}
+.Review{
+
+    padding-left:50px ;
+}
+/* *{
+    padding: 20px;
+} */
+
