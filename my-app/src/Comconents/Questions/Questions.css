@@ -1,0 +1,67 @@
+.ant-collapse {
+    background-color: transparent;
+    border: 0;
+  }
+  
+  .ant-collapse > .ant-collapse-item {
+    border: 0;
+  }
+  
+  .ant-collapse-content-box {
+    border-radius: 0 0px 10px 10px;
+    background-color: #f3f3f3;
+  }
+  
+  .ant-collapse > .ant-collapse-item:last-child {
+    border-radius: 10px;
+  }
+  
+  .ant-collapse-header {
+    border-radius: 10px;
+  }
+  
+  .ant-collapse-item {
+    border: 0;
+    border-radius: 10px;
+    background-color: #f3f3f3;
+    margin: 10px;
+  }
+  
+  .ant-collapse-header-text {
+    font-weight: bold;
+    font-weight: 600;
+    font-size: 24px;
+    color: #cc2f2a;
+  }
+  .ant-collapse-header-text {
+    margin-left: 10px;
+    font-size: 24px;
+  }
+  
+  .ant-collapse-expand-icon {
+    color: #cc2f2a;
+    display: flex;
+    align-items: center;
+  }
+  
+  .ant-collapse > .ant-collapse-item > .ant-collapse-header .ant-collapse-arrow {
+    font-size: 13px;
+  }
+  
+  .anticon.anticon-right.ant-collapse-arrow {
+    border: 1px solid #cc2f2a;
+    border-radius: 100%;
+    padding: 5px;
+  }
+  
+  .ant-collapse-expand-icon {
+    width: 30px;
+    height: 30px;
+    padding: 20px 12px 0 0;
+  }
+  p {
+    margin-left: 30px;
+    color: rgb(68, 68, 68);
+    font-size: 20px;
+  }
+  
